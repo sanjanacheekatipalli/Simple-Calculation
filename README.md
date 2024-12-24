@@ -1,6 +1,6 @@
 # Simple JavaScript Calculator
 
-[![Simple Javascript Calculator](https://raw.githubusercontent.com/harsh98trivedi/Simple-JavaScript-Calculator/master/images/meta.jpg)](https://github.com/sanjanacheekatipalli/Simple-Calculation.git)
+[![Simple Javascript Calculator](https://raw.githubusercontent.com/harsh98trivedi/Simple-JavaScript-Calculator/master/images/meta.jpg)](https://sanjanacheekatipalli.github.io/SIMPLE-CLACULATION/)
 A simple JavaScript Calculator 
 
 ## Overview
@@ -8,7 +8,7 @@ The Simple JavaScript Calculator is a straightforward web-based calculator built
 
 ## Usage
 
-You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://github.com/sanjanacheekatipalli/Simple-Calculation.git)
+You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator][https://sanjanacheekatipalli.github.io/SIMPLE-CLACULATION/]
 
 Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.
 
