@@ -8,7 +8,7 @@ The Simple JavaScript Calculator is a straightforward web-based calculator built
 
 ## Usage
 
-You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator][https://sanjanacheekatipalli.github.io/SIMPLE-CLACULATION/]
+You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://sanjanacheekatipalli.github.io/SIMPLE-CLACULATION/)
 
 Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.
 
